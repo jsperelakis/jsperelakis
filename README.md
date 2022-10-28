@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsperelakis
 - 👀 I’m interested in programming and cyber security.
-- 🌱 I’m currently learning Python 3 through Pieran
+- 🌱 I’m currently learning Python 3 through Pierian
 - 💞️ I’m looking to collaborate on nothing at the moment. 
 - 📫 How to reach me ...
 
